@@ -1,1 +1,15 @@
 /* You can add global styles to this file, and also import other style files */
+@import url('https://fonts.googleapis.com/css2?family=Lalezar&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+:root {
+  --fonte-principal: 'Lalezar', cursive;
+  --fonte-secundaria: 'Inter', sans-serif;
+  --cor-laranja: #FF6720;
+  --cor-branca: #FFFFFF;
+}
